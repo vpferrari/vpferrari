@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Ferrari (@vpferrari)
 - 👀 I’m interested in data science, spatial data, databases, retrocomputing
-- 🌱 I’m currently learning SQL Alchemy, Django
+- 🌱 I’m currently learning Data Science and Analytics
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: guilhermepferrari@gmail.com
 
